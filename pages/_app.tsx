@@ -4,6 +4,7 @@ import type { NextPage } from "next";
 import { BlogLayout } from "../components";
 import "../styles/globals.css";
 import "../styles/globals.scss";
+// import "../styles/style.css";
 import type { AppProps } from "next/app";
 
 type NextPageWithLayout = NextPage & {
